@@ -8,7 +8,7 @@ Features
   - Simple usage (two lines + import)
   - And more!
 
-Installation:
+## Installation:
 
 Place library in Documents -> Arduino -> libraries
 
@@ -18,7 +18,7 @@ cd ~/Documents/Arduino/libraries
 git clone git@github.com:mrl4214/Arduino-VEX.git
 ```
 
-Example use:
+##Example use:
 
 ```cpp
 #include <Servo.h>
