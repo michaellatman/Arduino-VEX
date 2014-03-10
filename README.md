@@ -12,11 +12,19 @@ Easy use:
 
 Place library in Documents -> arduino -> libraries
 
+On mac this is easy:
+```bash
+cd ~/Documents/Arduino/libraries
+git clone git@github.com:mrl4214/Arduino-VEX.git
+
+
+
+
 ```cpp
 #include <Servo.h>
 #include <VexMotor.h>
 
-VexMotor vex(10); //Use pin 10 for our first vex motor
+VexMotor motor1(10); //Use pin 10 for our first vex motor
 void setup()
 {
    
@@ -24,7 +32,7 @@ void setup()
 
 void loop()
 {
- vex.set(100); //100 is max. 0 is stop.
+  motor.set(100); //100 is max. 0 is stop.
   delay(100); //Delay for no real reason.
 }
 ```
