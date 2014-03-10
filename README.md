@@ -32,7 +32,7 @@ void setup()
 
 void loop()
 {
-  motor.set(100); //100 is max. 0 is stop.
+  motor1.set(100); //100 is max. 0 is stop.
   delay(100); //Delay for no real reason.
 }
 ```
