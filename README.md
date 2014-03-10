@@ -8,7 +8,10 @@ Features
   - Simple usage (two lines + import)
   - And more!
 
-Easy use
+Easy use:
+
+Place library in Documents -> Arduino -> Library
+
 ```cpp
 #include <Servo.h>
 #include <VexMotor.h>
