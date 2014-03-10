@@ -10,7 +10,7 @@ Features
 
 Installation:
 
-Place library in Documents -> arduino -> libraries
+Place library in Documents -> Arduino -> libraries
 
 On mac this is easy:
 ```bash
