@@ -16,8 +16,6 @@ On mac this is easy:
 ```bash
 cd ~/Documents/Arduino/libraries
 git clone git@github.com:mrl4214/Arduino-VEX.git
-
-
 ```
 
 Example use:
