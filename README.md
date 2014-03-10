@@ -1,7 +1,7 @@
 Arduino-VEX
 =========
 
-VEX-Arduino is a library for interacting with VEX motors/servos using simple commands.
+Arduino-VEX is a library for interacting with VEX motors/servos using simple commands.
 
 Features
   - Multiple motors!
