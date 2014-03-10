@@ -10,7 +10,7 @@ Features
 
 Easy use:
 
-Place library in Documents -> Arduino -> Library
+Place library in Documents -> arduino -> libraries
 
 ```cpp
 #include <Servo.h>
